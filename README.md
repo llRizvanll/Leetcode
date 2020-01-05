@@ -2,5 +2,6 @@
 Leetcode q&amp;a
 
 
-[1. Reverse String](https://leetcode.com/problems/reverse-string/)<br/>
-[2. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+[1. Reverse String](src/leetjava)<br/>
+[2. Valid Anagram](src/leetjava)<br/>
+[3. First Unique Character](src/leetjava)<br/>
