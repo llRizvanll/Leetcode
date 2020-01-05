@@ -1,4 +1,4 @@
-package java;/*
+package leetjava;/*
 
 Reverse String
 
@@ -24,7 +24,7 @@ https://leetcode.com/problems/reverse-string/
 
  */
 
-class Solution {
+class ReverseString {
     public void reverseString(char[] s) {
         int i = 0;
         int j = s.length - 1;
