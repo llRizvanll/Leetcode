@@ -5,6 +5,7 @@ Leetcode q&amp;a
 [1. Reverse String](src/leetjava)<br/><br/>
 [2. Valid Anagram](src/leetjava)<br/><br/>
 [3. First Unique Character](src/leetjava)<br/><br/>
-[4. BestBuySellStock](src/leetjava)<br/><br/>
-[5. ContainsDuplicate](src/leetjava)<br/><br/>
+[4. Best Time to Buy Sell Stock](src/leetjava)<br/><br/>
+[5. Contains Duplicate](src/leetjava)<br/><br/>
 [6. FizzBuzz](src/leetjava)<br/><br/>
+[7. Valid Parentheses](src/leetjava)<br/><br/>
