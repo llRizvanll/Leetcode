@@ -6,3 +6,4 @@ Leetcode q&amp;a
 [2. Valid Anagram](src/leetjava)<br/>
 [3. First Unique Character](src/leetjava)<br/>
 [4. BestBuySellStock](src/leetjava)<br/>
+[5. ContainsDuplicate](src/leetjava)<br/>
